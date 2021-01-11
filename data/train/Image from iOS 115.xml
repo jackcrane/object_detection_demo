@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Image from iOS (1-10-2021 8-02-21 PM)</folder>
+	<filename>Image from iOS 115.jpg</filename>
+	<path>Z:\ftc_goal\Image from iOS (1-10-2021 8-02-21 PM)\Image from iOS 115.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>high_goal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>305</xmin>
+			<ymin>408</ymin>
+			<xmax>673</xmax>
+			<ymax>568</ymax>
+		</bndbox>
+	</object>
+</annotation>
